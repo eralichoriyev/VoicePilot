@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio
+googletrans==4.0.0rc1
+gTTS
+streamlit
+pytest
+
